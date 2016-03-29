@@ -1,0 +1,17 @@
+{ "articles": [{
+    "id": 1,
+    "title": "Trump wins presidency",
+    "content": "Trump won and we're all f'ed",
+    "image": "http://i2.cdn.turner.com/cnnnext/dam/assets/150827102252-donald-trump-july-10-2015-super-169.jpg"
+  }, {
+    "id": 2,
+    "title": "Dog lands on moon",
+    "content": "Local hero Fido successfully made a trip to the moon. He will not be returning.",
+    "image": "https://s-media-cache-ak0.pinimg.com/236x/e2/c8/ab/e2c8abc6c7e90eb144c5898b5aa1ca74.jpg"
+  }, {
+    "id": 3,
+    "title": "Jesse the Body Ventura wins presidency as independent!",
+    "content": "He bodyslammed congress upon being sworn in.",
+    "image": "http://vignette2.wikia.nocookie.net/prowrestling/images/c/cd/Jesse-ventura.jpg_(489%C3%97324).jpeg/revision/latest?cb=20121207121717"
+  }]
+}

@@ -1,0 +1,11 @@
+<li>{{article.title}}<br>
+
+{{article.content}}
+
+  {{#if isImageShowing}}
+   <p><img src={{article.image}} alt={{article.title}} {{action 'imageHide'}}></p>
+  {{else}}
+    <button {{action 'imageShow'}}>Show image</button>
+  {{/if}}
+  <hr>
+</li>
